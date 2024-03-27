@@ -1,5 +1,6 @@
 # security_tools
 Firewalls, Log Records, Security Tools
+#based on code from faan ross' youtube series teaching cybersecurity scripts
 
 #DOS test
 run the blocker and flooder concurrently. 
